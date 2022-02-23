@@ -1,1 +1,1 @@
-# autotestpython
+# autotestpython на основе Page Object
